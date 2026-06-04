@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1496a5e8-d38f-48ef-a5d5-2e2c44a8daa4" name="Changes" comment="" />
+    <list default="true" id="1496a5e8-d38f-48ef-a5d5-2e2c44a8daa4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dao-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dao-jdbc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Seller.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,15 +22,35 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3Eg0RM00X33HauNWeyEd9nUzbeY" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Program.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
@@ -34,7 +59,34 @@
       <recent name="C:\Users\CANAN\IdeaProjects\demo-dao-jdbc\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Program" />
+      <module name="demo-dao-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1496a5e8-d38f-48ef-a5d5-2e2c44a8daa4" name="Changes" comment="" />
+      <created>1780584900775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780584900775</updated>
+    </task>
     <servers />
   </component>
 </project>

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="801848f8-de27-4423-8c42-8a51dc602112" name="Changes" comment="" />
+    <list default="true" id="1496a5e8-d38f-48ef-a5d5-2e2c44a8daa4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,53 +14,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Exception" />
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="3EOuIeuixIadai0lbg6y3xdRwtk" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Program.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/CANAN/IdeaProjects/demo-dao-jdbc",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\CANAN\IdeaProjects\jdbc1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\CANAN\IdeaProjects\jdbc1\src" />
-      <recent name="C:\Users\CANAN\IdeaProjects\jdbc1" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="application" />
-      <recent name="db" />
+      <recent name="C:\Users\CANAN\IdeaProjects\demo-dao-jdbc\src" />
     </key>
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="801848f8-de27-4423-8c42-8a51dc602112" name="Changes" comment="" />
-      <created>1780061862531</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1780061862531</updated>
-    </task>
     <servers />
   </component>
 </project>

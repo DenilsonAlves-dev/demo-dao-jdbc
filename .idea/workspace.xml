@@ -97,7 +97,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java</url>
-          <line>145</line>
+          <line>156</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
